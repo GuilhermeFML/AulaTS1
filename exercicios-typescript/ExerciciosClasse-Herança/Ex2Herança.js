@@ -22,5 +22,3 @@ const contaBancaria = new ContaBancaria('X', 20000.00);
 contaBancaria.exibirSaldo();
 const contaCorrente = new ContaCorrente('Y', 10000.00, 5000.00);
 contaCorrente.exibirSaldo();
-
-
